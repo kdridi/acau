@@ -46,7 +46,7 @@
 
 #include "ACCompatibility.h"
 
-#include "CABundleLocker.h"
+#include "../../PublicUtility/CABundleLocker.h"
 
 #if TARGET_OS_WIN32
 	#include "CAWin32StringResources.h"

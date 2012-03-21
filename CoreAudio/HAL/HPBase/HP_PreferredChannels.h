@@ -49,7 +49,7 @@
 #include "HP_Property.h"
 
 //	PublicUtility Includes
-#include "CATokenMap.h"
+#include "../../PublicUtility/CATokenMap.h"
 
 //  System Includes
 #include <CoreFoundation/CoreFoundation.h>

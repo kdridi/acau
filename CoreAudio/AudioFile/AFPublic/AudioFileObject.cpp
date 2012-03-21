@@ -39,7 +39,7 @@
 			POSSIBILITY OF SUCH DAMAGE.
 */
 #include "AudioFileObject.h"
-#include "CADebugMacros.h"
+#include "../../PublicUtility/CADebugMacros.h"
 #include <algorithm>
 #include <sys/stat.h>
 

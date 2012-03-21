@@ -49,9 +49,9 @@
 #endif
 
 #include <string.h>
-#include "CAStreamBasicDescription.h"
-#include "CAAutoDisposer.h"
-#include "CADebugMacros.h"
+#include "../../../PublicUtility/CAStreamBasicDescription.h"
+#include "../../../PublicUtility/CAAutoDisposer.h"
+#include "../../../PublicUtility/CADebugMacros.h"
 
 // make this usable outside the stricter context of AudiUnits
 #ifndef COMPONENT_THROW

@@ -49,7 +49,7 @@
 #include "HP_Object.h"
 
 //	PublicUtility Includes
-#include "CACFObject.h"
+#include "../../PublicUtility/CACFObject.h"
 
 //	System Includes
 #include <CoreAudio/AudioHardwarePlugIn.h>

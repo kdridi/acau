@@ -41,8 +41,8 @@
 #ifndef __CAAUMIDIMapManager_h_
 #define __CAAUMIDIMapManager_h_
 
-#include <AUBase.h> 
-#include <CAAUMIDIMap.h>
+#include "../AudioUnits/AUPublic/AUBase/AUBase.h"
+#include "CAAUMIDIMap.h"
 #include <vector>
 #include <AudioToolbox/AudioUnitUtilities.h>
 

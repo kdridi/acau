@@ -42,7 +42,7 @@
 #define __SynthElement__
 
 #include <AudioUnit/AudioUnit.h>
-#include "MusicDeviceBase.h"
+#include "../OtherBases/MusicDeviceBase.h"
 #include "SynthNoteList.h"
 #include "MIDIControlHandler.h"
 

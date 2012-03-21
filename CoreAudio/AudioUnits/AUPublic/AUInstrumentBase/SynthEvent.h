@@ -45,7 +45,7 @@
 
 #include <AudioUnit/AudioUnit.h>
 #include <CoreAudio/CoreAudio.h>
-#include "MusicDeviceBase.h"
+#include "../OtherBases/MusicDeviceBase.h"
 #include <stdexcept>
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////

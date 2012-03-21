@@ -46,7 +46,7 @@
 #include <AudioUnit/AudioUnit.h>
 #include <CoreAudio/CoreAudio.h>
 #include <libkern/OSAtomic.h>
-#include "MusicDeviceBase.h"
+#include "../OtherBases/MusicDeviceBase.h"
 #include "LockFreeFIFO.h"
 #include "SynthEvent.h"
 #include "SynthNote.h"

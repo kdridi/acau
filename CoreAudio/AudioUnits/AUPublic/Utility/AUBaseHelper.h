@@ -49,7 +49,7 @@
 	#include <AUComponent.h>
 #endif
 
-#include "AUBase.h"
+#include "../AUBase/AUBase.h"
 
 
 UInt32 FindInvalidSamples(Float32 *inSource, UInt32 inFramesToProcess, bool &hasNonZero, bool zapInvalidSamples);

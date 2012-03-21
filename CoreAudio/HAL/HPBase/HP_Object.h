@@ -49,7 +49,7 @@
 #include <CoreAudio/AudioHardwarePlugIn.h>
 
 //	PublicUtility Includes
-#include "CAPropertyAddress.h"
+#include "../../PublicUtility/CAPropertyAddress.h"
 
 //	Standard Library Includes
 #include <vector>

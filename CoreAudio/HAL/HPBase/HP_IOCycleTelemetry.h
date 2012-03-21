@@ -49,7 +49,7 @@
 #include "HP_TelemetryServer.h"
 
 //	PublicUtility Includes
-#include "CAGuard.h"
+#include "../../PublicUtility/CAGuard.h"
 #include "CAHALTelemetry.h"
 
 //	System Includes

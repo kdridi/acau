@@ -42,7 +42,7 @@
 #define __AUInput_h__
 
 #include "AUScopeElement.h"
-#include "AUBuffer.h"
+#include "../Utility/AUBuffer.h"
 
 /*! @class AUInputElement */
 class AUInputElement : public AUIOElement {

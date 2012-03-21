@@ -40,7 +40,7 @@
 */
 #include "SynthElement.h"
 #include "AUInstrumentBase.h"
-#include "AUMIDIDefs.h"
+#include "../Utility/AUMIDIDefs.h"
 
 #undef DEBUG_PRINT
 #define DEBUG_PRINT 0

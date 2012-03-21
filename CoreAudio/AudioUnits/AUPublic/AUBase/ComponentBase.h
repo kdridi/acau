@@ -42,8 +42,8 @@
 #define __ComponentBase_h__
 
 #include <new>
-#include "CADebugMacros.h"
-#include "CAXException.h"
+#include "../../../PublicUtility/CADebugMacros.h"
+#include "../../../PublicUtility/CAXException.h"
 
 #if !defined(__COREAUDIO_USE_FLAT_INCLUDES__)
 	#include <CoreAudio/CoreAudioTypes.h>

@@ -46,7 +46,7 @@
 //=============================================================================
 
 #include "ACCodec.h"
-#include "CAStreamBasicDescription.h"
+#include "../../PublicUtility/CAStreamBasicDescription.h"
 #include <vector>
 #include "GetCodecBundle.h"
 

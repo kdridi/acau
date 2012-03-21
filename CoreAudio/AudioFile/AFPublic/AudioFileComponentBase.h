@@ -41,7 +41,7 @@
 #ifndef __AudioFileComponentBase_h__
 #define __AudioFileComponentBase_h__
 
-#include "ComponentBase.h"
+#include "../../AudioUnits/AUPublic/AUBase/ComponentBase.h"
 #include "AudioFileFormat.h"
 
 struct AudioFileComponentLookup {

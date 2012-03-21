@@ -46,10 +46,10 @@
 #include "HP_TelemetryServer.h"
 
 //	PublicUtility Includes
-#include "CACFDictionary.h"
-#include "CACFMessagePort.h"
-#include "CADebugMacros.h"
-#include "CAException.h"
+#include "../../PublicUtility/CACFDictionary.h"
+#include "../../PublicUtility/CACFMessagePort.h"
+#include "../../PublicUtility/CADebugMacros.h"
+#include "../../PublicUtility/CAException.h"
 #include "CAHALTelemetry.h"
 
 //	System Includes

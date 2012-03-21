@@ -43,10 +43,10 @@
 #include "AUInputElement.h"
 #include "AUOutputElement.h"
 #include <algorithm>
-#include "CAAudioChannelLayout.h"
-#include "CAHostTimeBase.h"
-#include "CAVectorUnit.h"
-#include "CAXException.h"
+#include "../../../PublicUtility/CAAudioChannelLayout.h"
+#include "../../../PublicUtility/CAHostTimeBase.h"
+#include "../../../PublicUtility/CAVectorUnit.h"
+#include "../../../PublicUtility/CAXException.h"
 
 
 
@@ -2298,7 +2298,7 @@ void	AUBase::MakeCanonicalFormat(	CAStreamBasicDescription &		f,
 
 const Float64 AUBase::kNoLastRenderedSampleTime = -1.;
 
-#include "AUBaseHelper.h"
+#include "../Utility/AUBaseHelper.h"
 
 char*	AUBase::GetLoggingString () const
 {

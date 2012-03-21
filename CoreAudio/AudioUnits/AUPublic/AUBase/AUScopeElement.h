@@ -50,7 +50,7 @@
 	#include <AudioUnit.h>
 #endif
 #include "ComponentBase.h"
-#include "AUBuffer.h"
+#include "../Utility/AUBuffer.h"
 
 
 class AUBase;

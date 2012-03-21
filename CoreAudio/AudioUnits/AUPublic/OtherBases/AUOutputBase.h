@@ -41,7 +41,7 @@
 #ifndef __AUOutputBase_h__
 #define __AUOutputBase_h__
 
-#include "AUBase.h"
+#include "../AUBase/AUBase.h"
 
 // ________________________________________________________________________
 //	AUOutputBase

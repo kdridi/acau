@@ -39,7 +39,7 @@
 			POSSIBILITY OF SUCH DAMAGE.
 */
 #include "AUPannerBase.h"
-#include "CABundleLocker.h"
+#include "../../../PublicUtility/CABundleLocker.h"
 #include <AudioToolbox/AudioToolbox.h>
 #include <Accelerate/Accelerate.h>
 

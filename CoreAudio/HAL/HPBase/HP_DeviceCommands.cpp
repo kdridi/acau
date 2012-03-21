@@ -49,7 +49,7 @@
 #include "HP_Device.h"
 
 //  PublicUtility Includes
-#include "CAAudioTimeStamp.h"
+#include "../../PublicUtility/CAAudioTimeStamp.h"
 
 //==================================================================================================
 //	HP_DeviceCommands

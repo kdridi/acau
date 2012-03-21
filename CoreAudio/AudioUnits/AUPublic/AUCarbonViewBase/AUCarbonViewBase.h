@@ -43,7 +43,7 @@
 
 #include <vector>
 #include "AUCarbonViewControl.h"
-#include "ComponentBase.h"
+#include "../AUBase/ComponentBase.h"
 
 static const Float32 kDefaultNotificationInterval = 0.100;
 

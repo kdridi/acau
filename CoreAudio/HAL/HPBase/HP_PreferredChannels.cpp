@@ -49,14 +49,14 @@
 #include "HP_Device.h"
 
 //	PublicUtility Includes
-#include "CAAudioChannelLayout.h"
-#include "CACFArray.h"
-#include "CACFDictionary.h"
-#include "CACFDistributedNotification.h"
-#include "CACFPreferences.h"
-#include "CACFString.h"
-#include "CADebugMacros.h"
-#include "CAException.h"
+#include "../../PublicUtility/CAAudioChannelLayout.h"
+#include "../../PublicUtility/CACFArray.h"
+#include "../../PublicUtility/CACFDictionary.h"
+#include "../../PublicUtility/CACFDistributedNotification.h"
+#include "../../PublicUtility/CACFPreferences.h"
+#include "../../PublicUtility/CACFString.h"
+#include "../../PublicUtility/CADebugMacros.h"
+#include "../../PublicUtility/CAException.h"
 
 //==================================================================================================
 //	HP_PreferredChannels

@@ -46,8 +46,8 @@
 //==================================================================================================
 
 //	PublicUtility
-#include "CAProcess.h"
-#include "CATokenMap.h"
+#include "../../PublicUtility/CAProcess.h"
+#include "../../PublicUtility/CATokenMap.h"
 
 //	System Includes
 #include <CoreFoundation/CoreFoundation.h>

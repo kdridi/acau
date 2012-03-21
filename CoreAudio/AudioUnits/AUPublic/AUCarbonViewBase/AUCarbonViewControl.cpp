@@ -40,7 +40,7 @@
 */
 #include "AUCarbonViewControl.h"
 #include "AUCarbonViewBase.h"
-#include "AUViewLocalizedStringKeys.h"
+#include "../AUViewBase/AUViewLocalizedStringKeys.h"
 
 AUCarbonViewControl::AUCarbonViewControl(AUCarbonViewBase *ownerView, AUParameterListenerRef listener, ControlType type, const CAAUParameter &param, ControlRef control) :
 	mOwnerView(ownerView),

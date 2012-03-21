@@ -39,7 +39,7 @@
 			POSSIBILITY OF SUCH DAMAGE.
 */
 #include "ComponentBase.h"
-#include "CAXException.h"
+#include "../../../PublicUtility/CAXException.h"
 
 #if TARGET_OS_MAC
 pthread_mutex_t ComponentInitLocker::sComponentOpenMutex = PTHREAD_MUTEX_INITIALIZER;
@@ -273,7 +273,7 @@ static OSStatus CB_GetComponentDescription (const AudioComponentInstance inInsta
 
 #include <CoreServices/CoreServices.h>
 #include <AudioUnit/AudioUnit.h>
-#include "CAXException.h"
+#include "../../../PublicUtility/CAXException.h"
 #include "ComponentBase.h"
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

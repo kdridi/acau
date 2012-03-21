@@ -56,10 +56,10 @@
 #include "AUScopeElement.h"
 #include "AUInputElement.h"
 #include "AUOutputElement.h"
-#include "AUBuffer.h"
-#include "CAMath.h"
-#include "CAThreadSafeList.h"
-#include "CAVectorUnit.h"
+#include "../Utility/AUBuffer.h"
+#include "../../../PublicUtility/CAMath.h"
+#include "../../../PublicUtility/CAThreadSafeList.h"
+#include "../../../PublicUtility/CAVectorUnit.h"
 #if !defined(__COREAUDIO_USE_FLAT_INCLUDES__)
 	#include <AudioUnit/AudioUnit.h>
 	#if !CA_BASIC_AU_FEATURES

@@ -46,7 +46,7 @@
 #include "HP_SystemInfo.h"
 
 //	PublicUtility Includes
-#include "CAPropertyAddress.h"
+#include "../../PublicUtility/CAPropertyAddress.h"
 
 //==================================================================================================
 //	HP_SystemInfo

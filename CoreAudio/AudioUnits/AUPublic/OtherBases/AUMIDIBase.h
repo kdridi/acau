@@ -41,7 +41,7 @@
 #ifndef __AUMIDIBase_h__
 #define __AUMIDIBase_h__
 
-#include "AUBase.h"
+#include "../AUBase/AUBase.h"
 
 #if CA_AUTO_MIDI_MAP
 	#include "CAAUMIDIMapManager.h"

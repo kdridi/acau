@@ -53,7 +53,7 @@
 	#include "AudioCodec.h"
 #endif
 
-#include "ComponentBase.h"
+#include "../../AudioUnits/AUPublic/AUBase/ComponentBase.h"
 
 //=============================================================================
 //	ACCodec

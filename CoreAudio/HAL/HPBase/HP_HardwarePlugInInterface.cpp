@@ -52,10 +52,10 @@
 #include <CoreAudio/AudioHardwarePlugIn.h>
 
 //	PublicUtility Includes
-#include "CACFObject.h"
-#include "CADebugMacros.h"
-#include "CAException.h"
-#include "CAMutex.h"
+#include "../../PublicUtility/CACFObject.h"
+#include "../../PublicUtility/CADebugMacros.h"
+#include "../../PublicUtility/CAException.h"
+#include "../../PublicUtility/CAMutex.h"
 
 //==================================================================================================
 //	HP_HardwarePlugInInterface

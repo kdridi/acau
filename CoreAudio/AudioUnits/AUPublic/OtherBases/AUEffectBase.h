@@ -41,9 +41,9 @@
 #ifndef __AUEffectBase_h__
 #define __AUEffectBase_h__
 
-#include "AUBase.h"
-#include "AUSilentTimeout.h"
-#include "CAException.h"
+#include "../AUBase/AUBase.h"
+#include "../Utility/AUSilentTimeout.h"
+#include "../../../PublicUtility/CAException.h"
 
 class AUKernelBase;
 

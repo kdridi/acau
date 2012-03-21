@@ -39,7 +39,7 @@
 			POSSIBILITY OF SUCH DAMAGE.
 */
 #include "AUInstrumentBase.h"
-#include "AUMIDIDefs.h"
+#include "../Utility/AUMIDIDefs.h"
 
 #if DEBUG
 	#define DEBUG_PRINT 0

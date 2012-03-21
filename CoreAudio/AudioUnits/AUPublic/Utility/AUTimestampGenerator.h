@@ -42,7 +42,7 @@
 #define __AUTimestampGenerator_h__
 
 #include <math.h>
-#include "CAHostTimeBase.h"
+#include "../../../PublicUtility/CAHostTimeBase.h"
 #include <stdio.h>
 
 #define TSGFMT "0x%10qx"

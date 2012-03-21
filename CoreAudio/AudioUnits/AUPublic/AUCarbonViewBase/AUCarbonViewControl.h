@@ -45,7 +45,7 @@
 #include <AudioUnit/AudioUnitCarbonView.h>
 #include <AudioToolbox/AudioUnitUtilities.h>
 #include "CarbonEventHandler.h"
-#include "CAAUParameter.h"
+#include "../../../PublicUtility/CAAUParameter.h"
 
 class AUCarbonViewBase;
 

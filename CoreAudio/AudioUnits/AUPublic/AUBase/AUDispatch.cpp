@@ -39,7 +39,7 @@
 			POSSIBILITY OF SUCH DAMAGE.
 */
 #include "AUBase.h"
-#include "CAXException.h"
+#include "../../../PublicUtility/CAXException.h"
 #include "AUDispatch.h"
 
 

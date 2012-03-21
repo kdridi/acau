@@ -46,8 +46,8 @@
 #include "HP_DriverPlugIn.h"
 
 //	PublicUtility Includes
-#include "CADebugMacros.h"
-#include "CAException.h"
+#include "../../PublicUtility/CADebugMacros.h"
+#include "../../PublicUtility/CAException.h"
 
 //==================================================================================================
 //	HP_DriverPlugIn

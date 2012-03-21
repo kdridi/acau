@@ -49,7 +49,7 @@
 #include "HP_Object.h"
 
 //  PublicUtility Includes
-#include "CAMutex.h"
+#include "../../PublicUtility/CAMutex.h"
 
 //  Standard Library Includes
 #include <vector>

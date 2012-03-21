@@ -40,7 +40,7 @@
 */
 #include "AUMIDIBase.h"
 #include <CoreMIDI/CoreMIDI.h>
-#include "CAXException.h"
+#include "../../../PublicUtility/CAXException.h"
 
 //temporaray location
 enum

@@ -50,10 +50,10 @@
 #include "HP_HardwarePlugIn.h"
 
 //	PublicUtility Includes
-#include "CACFString.h"
-#include "CADebugMacros.h"
-#include "CAException.h"
-#include "CAMutex.h"
+#include "../../PublicUtility/CACFString.h"
+#include "../../PublicUtility/CADebugMacros.h"
+#include "../../PublicUtility/CAException.h"
+#include "../../PublicUtility/CAMutex.h"
 
 //==================================================================================================
 //	HP_Stream

@@ -54,7 +54,7 @@
 #endif
 
 #include "CompressedPacketTable.h"
-#include "CACFDictionary.h"
+#include "../../PublicUtility/CACFDictionary.h"
 #include "DataSource.h"
 #include <vector>
 #include <fcntl.h>

@@ -49,9 +49,9 @@
 #include "HP_Property.h"
 
 //	PublicUtility Includes
-#include "CAAudioValueRange.h"
-#include "CAStreamBasicDescription.h"
-#include "CAStreamRangedDescription.h"
+#include "../../PublicUtility/CAAudioValueRange.h"
+#include "../../PublicUtility/CAStreamBasicDescription.h"
+#include "../../PublicUtility/CAStreamRangedDescription.h"
 
 //	Standard Library Includes
 #include <vector>

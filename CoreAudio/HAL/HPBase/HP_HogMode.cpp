@@ -50,16 +50,16 @@
 #include "HP_SystemInfo.h"
 
 //	PublicUtility Includes
-#include "CACFDistributedNotification.h"
-#include "CACFNumber.h"
-#include "CACFString.h"
-#include "CADebugMacros.h"
-#include "CAException.h"
+#include "../../PublicUtility/CACFDistributedNotification.h"
+#include "../../PublicUtility/CACFNumber.h"
+#include "../../PublicUtility/CACFString.h"
+#include "../../PublicUtility/CADebugMacros.h"
+#include "../../PublicUtility/CAException.h"
 
 #if HogMode_UseCFPrefs
-	#include "CACFPreferences.h"
+	#include "../../PublicUtility/CACFPreferences.h"
 #else
-	#include "CASettingsStorage.h"
+	#include "../../PublicUtility/CASettingsStorage.h"
 #endif
 
 //	System Includes

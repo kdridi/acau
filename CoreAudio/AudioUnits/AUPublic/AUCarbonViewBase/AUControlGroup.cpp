@@ -42,7 +42,7 @@
 #include "AUCarbonViewBase.h"
 #include "AUCarbonViewControl.h"
 #include "AUControlGroup.h"
-#include "AUViewLocalizedStringKeys.h"
+#include "../AUViewBase/AUViewLocalizedStringKeys.h"
 
 #define kSliderThinDimension 10
 #define kLabelAndSliderSpacing	4

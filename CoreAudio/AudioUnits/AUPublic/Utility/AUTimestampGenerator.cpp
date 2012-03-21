@@ -39,7 +39,7 @@
 			POSSIBILITY OF SUCH DAMAGE.
 */
 #include "AUTimestampGenerator.h"
-#include "CAMath.h"
+#include "../../../PublicUtility/CAMath.h"
 
 #if DEBUG
 static double DebugHostTime(const AudioTimeStamp &ts)

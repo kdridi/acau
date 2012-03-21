@@ -52,10 +52,10 @@
 #include "HP_Stream.h"
 
 //	PublicUtility Includes
-#include "CADebugMacros.h"
-#include "CAException.h"
-#include "CAMutex.h"
-#include "CATokenMap.h"
+#include "../../PublicUtility/CADebugMacros.h"
+#include "../../PublicUtility/CAException.h"
+#include "../../PublicUtility/CAMutex.h"
+#include "../../PublicUtility/CATokenMap.h"
 
 //	Standard Library Includes
 #include <map>

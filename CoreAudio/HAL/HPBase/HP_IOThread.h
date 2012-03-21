@@ -46,8 +46,8 @@
 //==================================================================================================
 
 //	PublicUtility Includes
-#include "CAGuard.h"
-#include "CAPThread.h"
+#include "../../PublicUtility/CAGuard.h"
+#include "../../PublicUtility/CAPThread.h"
 
 //=============================================================================
 //	Types

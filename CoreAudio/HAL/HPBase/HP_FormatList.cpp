@@ -50,8 +50,8 @@
 #include "HP_Stream.h"
 
 //  PublicUtility Includes
-#include "CADebugMacros.h"
-#include "CAException.h"
+#include "../../PublicUtility/CADebugMacros.h"
+#include "../../PublicUtility/CAException.h"
 
 //==================================================================================================
 //	HP_FormatList

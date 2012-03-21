@@ -41,10 +41,10 @@
 #ifndef __AUPannerBase_h__
 #define __AUPannerBase_h__
 
-#include "AUBase.h"
+#include "../AUBase/AUBase.h"
 #include <math.h>
-#include "CAAutoDisposer.h"
-#include "CAAudioChannelLayout.h"
+#include "../../../PublicUtility/CAAutoDisposer.h"
+#include "../../../PublicUtility/CAAudioChannelLayout.h"
 
 
 /*! @class AUPannerBase */

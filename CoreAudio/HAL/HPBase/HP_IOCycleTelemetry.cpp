@@ -49,12 +49,12 @@
 #include "HP_Device.h"
 
 //	PublicUtility Includes
-#include "CACFDictionary.h"
-#include "CACFString.h"
-#include "CADebugMacros.h"
-#include "CAException.h"
-#include "CAProcess.h"
-#include "CAHostTimeBase.h"
+#include "../../PublicUtility/CACFDictionary.h"
+#include "../../PublicUtility/CACFString.h"
+#include "../../PublicUtility/CADebugMacros.h"
+#include "../../PublicUtility/CAException.h"
+#include "../../PublicUtility/CAProcess.h"
+#include "../../PublicUtility/CAHostTimeBase.h"
 
 //==================================================================================================
 //	HP_IOCycleTelemetry

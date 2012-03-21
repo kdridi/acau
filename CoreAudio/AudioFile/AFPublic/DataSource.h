@@ -50,7 +50,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <stdexcept>
-#include "CAAutoDisposer.h"
+#include "../../PublicUtility/CAAutoDisposer.h"
 
 //////////////////////////////////////////////////////////////////////////////////////////
 
